@@ -8,8 +8,7 @@
 
 <h5>Reach me on:
   
-- My profile in <a href="www.linkedin.com/in/abhay-pratap-singh-bisht-b7b008208">LinkedIn</a> 💼 
-- My technical blogs in <a href="https://medium.com/@sankhasubhramondal18">Medium</a> 🏓
+- My profile in <a href="https://www.linkedin.com/in/abhay-pratap-singh-bisht-b7b008208/">LinkedIn</a> 💼 
 - My contribution in Data Science in <a href="https://www.kaggle.com/abhaypratapsingh007">Kaggle</a>🖥💻
 - My leetcode profile <a href="https://leetcode.com/u/abhayyyy_18/">Leetcode</a>💻
 
