@@ -20,6 +20,6 @@
 
 🌱 I’m currently learning - *Deep learning, NLP, Computer Vision & Full-Stack web development.*
 
-👯 I’ve recently worked with start-up companies like - *LET'S Grow More as a Web Development Intern*
+👯 I’ve recently worked with start-up company - *LET'S Grow More as a Web Development Intern*
 
 😄 Words that describe me - *Pro-Active, Self-motivated, Focused, Hardworking & Perfectionist.*
